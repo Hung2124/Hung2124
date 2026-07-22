@@ -52,10 +52,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hung2124&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hung2124&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top langs"/>
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hung2124&hide_border=true&theme=tokyonight" alt="streak"/>
+<img width="98%" src="https://streak-stats.demolab.com/?user=Hung2124&hide_border=true&theme=tokyonight" alt="streak"/>
 
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=Hung2124&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies"/>
 
