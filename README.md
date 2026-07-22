@@ -14,28 +14,28 @@
 
 ---
 
-## 👋 About Me
+## <img src="https://api.iconify.design/mdi:hand-wave.svg?color=%23E0A63C&width=26" height="24" align="center"/> About Me
 
-- 🎓 3rd-year **Software Engineering** student @ **FPT University** 🇻🇳
-- 🧑‍💻 I build software **end-to-end** — from the UI, to the backend, down to the database.
-- 🤖 Into **AI agents, automation & DevSecOps** — building tools that do the boring work.
-- 🧭 Often the **team lead** on group projects: planning, task breakdown, architecture & delivery.
-- 🌱 Always learning — currently deep in **software architecture & system design**.
+- <img src="https://api.iconify.design/mdi:school.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;3rd-year **Software Engineering** student @ **FPT University** 🇻🇳
+- <img src="https://api.iconify.design/mdi:layers-triple-outline.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;I build software **end-to-end** — from the UI, to the backend, down to the database.
+- <img src="https://api.iconify.design/mdi:robot-outline.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;Into **AI agents, automation &amp; DevSecOps** — building tools that do the boring work.
+- <img src="https://api.iconify.design/mdi:account-group.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;Often the **team lead** on group projects: planning, task breakdown, architecture &amp; delivery.
+- <img src="https://api.iconify.design/mdi:sprout.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;Always learning — currently deep in **software architecture &amp; system design**.
 
 ---
 
-## 🚀 What I Build
+## <img src="https://api.iconify.design/mdi:rocket-launch-outline.svg?color=%23E0A63C&width=26" height="24" align="center"/> What I Build
 
 | Area | What I use |
 |---|---|
-| 🌐 **Full-stack web apps** | Next.js · React · TypeScript · Tailwind — backed by Java or Node |
-| 🗄️ **Backend & data** | Java (Servlet/JSP) · REST APIs · SQL Server · ERD design (conceptual → logical → physical) |
-| 🤖 **AI & automation** | LLM-powered agents · DevSecOps automation · developer tooling |
-| 🧩 **System design** | Turning business requirements into architecture, schemas, APIs & tests |
+| <img src="https://api.iconify.design/mdi:web.svg?color=%23B33030&width=18" height="16" align="center"/> **Full-stack web apps** | Next.js · React · TypeScript · Tailwind — backed by Java or Node |
+| <img src="https://api.iconify.design/mdi:database-outline.svg?color=%23B33030&width=18" height="16" align="center"/> **Backend &amp; data** | Java (Servlet/JSP) · REST APIs · SQL Server · ERD design (conceptual → logical → physical) |
+| <img src="https://api.iconify.design/mdi:robot-outline.svg?color=%23B33030&width=18" height="16" align="center"/> **AI &amp; automation** | LLM-powered agents · DevSecOps automation · developer tooling |
+| <img src="https://api.iconify.design/mdi:sitemap-outline.svg?color=%23B33030&width=18" height="16" align="center"/> **System design** | Turning business requirements into architecture, schemas, APIs &amp; tests |
 
 ---
 
-## 🛠️ Tech I Work With
+## <img src="https://api.iconify.design/mdi:hammer-wrench.svg?color=%23E0A63C&width=26" height="24" align="center"/> Tech I Work With
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 
 ---
 
-## 📫 Connect with Me
+## <img src="https://api.iconify.design/mdi:send.svg?color=%23E0A63C&width=26" height="24" align="center"/> Connect with Me
 
 <div align="center">
 
