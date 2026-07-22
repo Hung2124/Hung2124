@@ -10,7 +10,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B1A1A,50:B33030,100:E0A63C&height=3" alt=""/>
 
 ## <img src="https://api.iconify.design/mdi:hand-wave.svg?color=%23E0A63C&width=26" height="24" align="center"/> About Me
 
@@ -20,7 +20,7 @@
 - <img src="https://api.iconify.design/mdi:account-group.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;Often the **team lead** on group projects: planning, task breakdown, architecture &amp; delivery.
 - <img src="https://api.iconify.design/mdi:sprout.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;Always learning — currently deep in **software architecture &amp; system design**.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B1A1A,50:B33030,100:E0A63C&height=3" alt=""/>
 
 ## <img src="https://api.iconify.design/mdi:rocket-launch-outline.svg?color=%23E0A63C&width=26" height="24" align="center"/> What I Build
 
@@ -31,7 +31,7 @@
 | <img src="https://api.iconify.design/mdi:robot-outline.svg?color=%23B33030&width=18" height="16" align="center"/> **AI &amp; automation** | LLM-powered agents · DevSecOps automation · developer tooling |
 | <img src="https://api.iconify.design/mdi:sitemap-outline.svg?color=%23B33030&width=18" height="16" align="center"/> **System design** | Turning business requirements into architecture, schemas, APIs &amp; tests |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B1A1A,50:B33030,100:E0A63C&height=3" alt=""/>
 
 ## <img src="https://api.iconify.design/mdi:hammer-wrench.svg?color=%23E0A63C&width=26" height="24" align="center"/> Tech I Work With
 
@@ -74,7 +74,21 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B1A1A,50:B33030,100:E0A63C&height=3" alt=""/>
+
+<div align="center">
+
+### <img src="https://api.iconify.design/mdi:snake.svg?color=%23E0A63C&width=24" height="22" align="center"/> Watch my contributions get eaten
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hung2124/Hung2124/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hung2124/Hung2124/output/github-snake.svg" />
+  <img width="100%" alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Hung2124/Hung2124/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B1A1A,50:B33030,100:E0A63C&height=3" alt=""/>
 
 ## <img src="https://api.iconify.design/mdi:send.svg?color=%23E0A63C&width=26" height="24" align="center"/> Connect with Me
 
