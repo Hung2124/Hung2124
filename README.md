@@ -1,6 +1,6 @@
 <!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
 <a href="https://github.com/Hung2124">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B1A1A,50:B33030,100:E0A63C&height=210&section=header&text=Hung%20Nguyen&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20the%20making%20%C2%B7%20Vietnam&descSize=19&descAlignY=60&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B1A1A,50:B33030,100:E0A63C&height=210&section=header&text=Nguyen%20Thanh%20Hung&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20the%20making%20%C2%B7%20Vietnam&descSize=19&descAlignY=60&animation=fadeIn" alt="header"/>
 </a>
 
 <!-- ═══════════════════════ TYPING SUBTITLE ═══════════════════════ -->
