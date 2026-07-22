@@ -6,9 +6,7 @@
 <!-- ═══════════════════════ TYPING SUBTITLE ═══════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E0A63C&center=true&vCenter=true&width=700&lines=Full-stack+developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Web+%C2%B7+Backend+%C2%B7+AI+agents+%26+automation;I+design+systems+from+requirements+to+deploy;Always+curious+%C2%B7+always+shipping+%F0%9F%9A%80)](https://github.com/Hung2124)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Hung2124&label=Profile%20views&color=8B1A1A&style=flat-square)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E0A63C&center=true&vCenter=true&width=700&lines=Software+Engineering+student+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;I+build+full-stack+web+apps+%26+AI+tools;From+requirements+to+ERD+to+working+code;Always+curious+%C2%B7+always+learning+%F0%9F%9A%80)](https://github.com/Hung2124)
 
 </div>
 
