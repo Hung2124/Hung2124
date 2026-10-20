@@ -1,12 +1,12 @@
 <!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
 <a href="https://github.com/Hung2124">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B1A1A,50:B33030,100:E0A63C&height=210&section=header&text=Nguyen%20Thanh%20Hung&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20the%20making%20%C2%B7%20Vietnam&descSize=19&descAlignY=60&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B1A1A,50:B33030,100:E0A63C&height=210&section=header&text=Hung%20Nguyen&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Open-Source%20Maintainer%20%26%20Security%20Researcher%20%C2%B7%20Vietnam&descSize=19&descAlignY=60&animation=fadeIn" alt="header"/>
 </a>
 
 <!-- ═══════════════════════ TYPING SUBTITLE ═══════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E0A63C&center=true&vCenter=true&width=700&lines=Software+Engineering+student+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;I+build+full-stack+web+apps+%26+AI+tools;From+requirements+to+ERD+to+working+code;Always+curious+%C2%B7+always+learning+%F0%9F%9A%80)](https://github.com/Hung2124)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E0A63C&center=true&vCenter=true&width=700&lines=Open-Source+Maintainer+%26+Security+Researcher+%F0%9F%87%BB%F0%9F%87%B3;Author+of+codex-multi-profile+%26+mcp-guard;Published+CVE+Finder+%28CVE-2026-3844+%C2%B7+CVE-2026-11616%29;Building+AI+agent+infrastructure+%26+DevSecOps+tooling+%F0%9F%9A%80)](https://github.com/Hung2124)
 
 </div>
 
@@ -14,11 +14,10 @@
 
 ## <img src="https://api.iconify.design/mdi:hand-wave.svg?color=%23E0A63C&width=26" height="24" align="center"/> About Me
 
-- <img src="https://api.iconify.design/mdi:school.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;3rd-year **Software Engineering** student @ **FPT University** 🇻🇳
-- <img src="https://api.iconify.design/mdi:layers-triple-outline.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;I build software **end-to-end** — from the UI, to the backend, down to the database.
-- <img src="https://api.iconify.design/mdi:robot-outline.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;Into **AI agents, automation &amp; DevSecOps** — building tools that do the boring work.
-- <img src="https://api.iconify.design/mdi:account-group.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;Often the **team lead** on group projects: planning, task breakdown, architecture &amp; delivery.
-- <img src="https://api.iconify.design/mdi:sprout.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;Always learning — currently deep in **software architecture &amp; system design**.
+- <img src="https://api.iconify.design/mdi:shield-Search.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;**Systems Engineer &amp; Independent Security Researcher** (`Hung Nguyen` / `Nguyen Hung`) 🇻🇳
+- <img src="https://api.iconify.design/mdi:bug-check-outline.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;**Published Vulnerability Disclosures:** Credited finder of [**CVE-2026-3844**](https://www.cve.org/CVERecord?id=CVE-2026-3844) *(CVSS 9.8 Critical)* and [**CVE-2026-11616**](https://www.cve.org/CVERecord?id=CVE-2026-11616) *(CVSS 8.8 High)*.
+- <img src="https://api.iconify.design/mdi:package-variant-closed.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;**Open-Source Maintainer:** Creator of [**codex-multi-profile**](https://github.com/Hung2124/codex-multi-profile) ([`codex-multi-profile` on npm](https://www.npmjs.com/package/codex-multi-profile), 93+ ⭐, 80+ forks) and [**mcp-guard**](https://github.com/Hung2124/mcp-guard).
+- <img src="https://api.iconify.design/mdi:robot-outline.svg?color=%23B33030&width=20" height="18" align="center"/> &nbsp;Focused on **AI agent runtime security, static analysis, and DevSecOps automation**.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B1A1A,50:B33030,100:E0A63C&height=3" alt=""/>
 
