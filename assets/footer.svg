@@ -1,12 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90" width="100%" height="90">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 110" width="100%" height="110">
   <defs>
     <linearGradient id="footGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8f2424"/>
-      <stop offset="55%" stop-color="#2a1617"/>
-      <stop offset="100%" stop-color="#141416"/>
+      <stop offset="0%" stop-color="#E0A63C"/>
+      <stop offset="50%" stop-color="#B33030"/>
+      <stop offset="100%" stop-color="#8B1A1A"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="90" rx="8" fill="#0d1117"/>
-  <path d="M0,35 C240,80 480,0 720,45 C800,60 860,40 900,30 L900,90 L0,90 Z" fill="url(#footGrad)"/>
-  <text x="450" y="68" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#e5e7eb" letter-spacing="1">NGUYEN THANH HUNG (@HUNG2124) · HUNGSEC LABS · HANOI, VIETNAM</text>
+  <path d="M 0 40 Q 225 -15 450 40 T 900 30 L 900 110 L 0 110 Z" fill="url(#footGrad)"/>
 </svg>
