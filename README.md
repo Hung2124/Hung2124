@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-hung2124.pages.dev-B33030?style=flat-square&logo=cloudflare&logoColor=white)](https://hung2124.pages.dev)
 [![HungSec Labs](https://img.shields.io/badge/Security_Practice-hungsec.pages.dev-E8A838?style=flat-square&logo=securityscorecard&logoColor=141416)](https://hungsec.pages.dev)
 [![CVE Advisories](https://img.shields.io/badge/CVE_Advisories-2026_(CVSS_9.8_%2F_8.8)-ef4444?style=flat-square&logo=cve&logoColor=white)](https://hungsec.pages.dev/advisories.html)
-[![npm package](https://img.shields.io/npm/v/codex-multi-profile?style=flat-square&logo=npm&color=cb3837&label=codex-multi-profile)](https://www.npmjs.com/package/codex-multi-profile)
+[![npm package](https://img.shields.io/badge/codex--multi--profile-v1.0.4-cb3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/codex-multi-profile)
 [![Email](https://img.shields.io/badge/Email-thank0617%40gmail.com-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:thank0617@gmail.com)
 
 </div>
@@ -58,7 +58,7 @@
       <h4><a href="https://github.com/Hung2124/codex-multi-profile">codex-multi-profile</a></h4>
       <p>Multi-account &amp; multi-profile switcher for OpenAI Codex CLI with isolated <code>CODEX_HOME</code> state, zero-downtime token rotation, and cross-platform Node/Bash/PowerShell CLI wrappers.</p>
       <p>
-        <a href="https://www.npmjs.com/package/codex-multi-profile"><img src="https://img.shields.io/npm/v/codex-multi-profile?style=flat-square&color=B33030" alt="npm"/></a>
+        <a href="https://www.npmjs.com/package/codex-multi-profile"><img src="https://img.shields.io/badge/npm-v1.0.4-B33030?style=flat-square&logo=npm&logoColor=white" alt="npm"/></a>
         <img src="https://img.shields.io/github/stars/Hung2124/codex-multi-profile?style=flat-square&color=E8A838" alt="stars"/>
         <img src="https://img.shields.io/github/forks/Hung2124/codex-multi-profile?style=flat-square&color=334155" alt="forks"/>
       </p>
@@ -98,9 +98,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hung2124/Hung2124/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hung2124/Hung2124/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hung2124/Hung2124/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hung2124/Hung2124/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hung2124/Hung2124/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hung2124/Hung2124/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
