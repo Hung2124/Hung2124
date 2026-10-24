@@ -33,6 +33,16 @@
 
 <img width="100%" src="./assets/divider.svg" alt=""/>
 
+## 📦 Open-Source Maintenance & Developer Tooling
+
+| Project | Package / Ecosystem | Focus |
+| :--- | :--- | :--- |
+| [**codex-multi-profile**](https://github.com/Hung2124/codex-multi-profile) | [![npm](https://img.shields.io/npm/v/codex-multi-profile?color=cb3837&label=npm)](https://www.npmjs.com/package/codex-multi-profile) [![stars](https://img.shields.io/github/stars/Hung2124/codex-multi-profile?color=blue&label=stars)](https://github.com/Hung2124/codex-multi-profile/stargazers) | Multi-workspace profile router, static  security auditor, and  &harr;  instruction bridge for **Claude Code** and **OpenAI Codex** |
+| [**hermes-devops-swarm**](https://github.com/Hung2124/hermes-devops-swarm) | Node.js · GitHub Actions | Automated multi-agent DevOps triage, release verification, and CI/CD guardrails |
+| [**feed-watch-bot**](https://github.com/Hung2124/feed-watch-bot) | Cloudflare Workers · TypeScript | Edge-native RSS/Atom security & release feed monitor with webhook routing |
+
+---
+
 ## 🛠️ Tech I Work With
 
 <div align="center">
